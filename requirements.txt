@@ -1,0 +1,3 @@
+pandas>=1.3.0
+bar-chart-race>=0.1.0
+matplotlib>=3.4.0 
