@@ -4,7 +4,11 @@ An animated bar chart race visualisation showing the evolution of Australia's to
 
 ## 🎥 Preview
 
-[Video preview will be added here]
+
+
+https://github.com/user-attachments/assets/0922c59f-8a4d-495a-903c-ab0535fe62d6
+
+
 
 ## 🛠️ Technologies Used
 
